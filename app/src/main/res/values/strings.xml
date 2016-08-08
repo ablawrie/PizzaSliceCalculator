@@ -10,4 +10,10 @@
     <string name="per_int_view">1</string>
     <string name="size_text_view">Size</string>
     <string name="size_hint_text">in^2</string>
+    <string name="area_text_view">Area</string>
+    <string name="area_int_view">0</string>
+    <string name="value_text_view">Value</string>
+    <string name="value_int_view">0</string>
+    <string name="cost_text_view">Cost</string>
+    <string name="cost_int_view">0</string>
 </resources>
