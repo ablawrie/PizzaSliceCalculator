@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Pizza Slice Calculator</string>
+    <string name="price_text_view">Price</string>
+    <string name="price_hint_text">$0.00</string>
+    <string name="quantity_text_view">Quantity</string>
+    <string name="quantity_int_view">1</string>
+    <string name="increment_button_view">+</string>
+    <string name="decrement_button_view">-</string>
+    <string name="per_text_view">Per</string>
+    <string name="per_int_view">1</string>
+    <string name="size_text_view">Size</string>
+    <string name="size_hint_text">in^2</string>
 </resources>
