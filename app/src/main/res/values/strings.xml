@@ -6,7 +6,7 @@
     <string name="quantity_int_view">1</string>
     <string name="increment_button_view">+</string>
     <string name="decrement_button_view">-</string>
-    <string name="per_text_view">Per</string>
+    <string name="per_text_view">Per Person</string>
     <string name="per_int_view">1</string>
     <string name="size_text_view">Size</string>
     <string name="size_hint_text">in^2</string>
